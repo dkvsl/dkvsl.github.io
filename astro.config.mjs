@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'dkvsl.github.io',
+	site: 'https://dkvsl.github.io',
 	integrations: [
 		starlight({
 			title: 'Blog',
