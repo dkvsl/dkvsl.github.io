@@ -7,8 +7,8 @@ export default defineConfig({
 	site: 'dkvsl.github.io',
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Blog',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/dkvsl' }],
 			sidebar: [
 				{
 					label: 'Guides',
